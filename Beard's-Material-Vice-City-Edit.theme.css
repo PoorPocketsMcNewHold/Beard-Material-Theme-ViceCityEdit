@@ -1,0 +1,153 @@
+//META{"name":"Beard's Material: Vice City Edit for Discord","description":"Beta version, here I mainly test stuff, If you have any suggestions, Just keep it for yourselves","author":"PoorPockets McNewhold","version":"1.0.0"}*//{}
+
+:root{
+        --notification-color: #43CBFF; !important;
+        --accent-color: linear-gradient( 135deg, #43CBFF 0%, #9708CC 100%); !important;
+}
+.itemBrand-mC9YR4 {
+    color: #43CBFF;
+}
+.layer[layer-id="user-settings"] .item-3879bf:nth-of-type(7)::before, .layer[layer-id="user-settings"] .ui-standard-sidebar-view .sidebar-region .ui-tab-bar.SIDE .ui-tab-bar-item:nth-of-type(7)::before {
+    content: url(https://vgy.me/nGbPLH.png);
+}
+.app a, .connecting a {
+    color: #43CBFF;
+}
+.connecting {
+    background: var(--accent-color)!important;
+}
+#user-profile-modal .actions .btn.add-friend {
+    background: linear-gradient( 135deg, #43CBFF 0%, #9708CC 100%); !important;
+}
+#user-profile-modal .header .header-info .profile-badge.badge-hypesquad {
+    background-image: url(https://vgy.me/eMBQyM.png);
+}
+.content-region #bd-customcss-attach-controls::after {
+    background: linear-gradient( 135deg, #43CBFF 0%, #9708CC 100%); !important;
+}
+.header-toolbar .toolbar-badge {
+    background-color: var(--accent-color)!important;
+}
+.keyboard-shortcuts-modal {
+    background-color: #141414;
+}
+.keyboard-shortcuts-modal .keyboard-shortcut-list .keybind-group .keybind-description {
+    color: linear-gradient( 135deg, #43CBFF 0%, #9708CC 100%); !important;
+}
+.keybind-shortcut {
+    color: var(--accent-color)!important;
+}
+*{cursor: url("https://pomf.pyonpyon.moe/nmtfyz.cur"), auto!important;}
+}
+.ui-standard-sidebar-view #editor-detached button {
+    background: var(--accent-color);
+}
+.need-help-modal.deprecated a {
+    color: var(--accent-color)!important;
+}
+.premium-settings .premium-header .premium-free-months {
+    color: #43CBFF;
+}
+.user-settings-games .game-verified-icon {
+    background: url(https://pomf.pyonpyon.moe/xoiliw.png) no-repeat;
+    width: 17px;
+    height: 16px;
+    margin-left: 8px;
+}
+element.style {
+    background-color: #43CBFF;
+    border-color: #43CBFF;
+}
+.element.style {
+    background-color: #43CBFF;
+    border-color: #43CBFF;
+}
+.content-region #bd-customcss-attach-controls, #bd-customcss-detach-container #bd-customcss-attach-controls {
+    color: #141414;
+}
+.ui-standard-sidebar-view #bd-settingspane-container .content-column.default .bda-slist::before {
+    background: linear-gradient( 135deg, #43CBFF 0%, #9708CC 100%); !important;
+}
+.added-3Q7OGu {
+    color: #43CBFF;
+}
+.modal-3HOjGZ a, .markdown-modal a, .theme-dark .chat .title-wrap .topic a, .theme-dark .chat .welcome-message a, .friends-table .messages .message-group a, .messages-wrapper .messages .message-group a {
+    color: #43CBFF;
+}
+.popout-menu .popout-menu-item.invite {
+    color: var(--accent-color)!important;
+}
+.theme-light .radio .radio-inner {
+    background-color: none;
+}
+.theme-dark .defaultColor-v22dK1 {
+    color: #43CBFF;
+}
+.theme-dark .card-3DrRmC a {
+    color:#43CBFF;
+}
+img[src="/assets/5fb477ca84edd15d9a2888ac28365acd.svg"] {
+    content: url(https://pomf.pyonpyon.moe/ceclzm.png)!important;
+}
+img[src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNiIgaGVpZ2h0PSIzNiI+CiAgPGcgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj4KICAgIDxwYXRoIGQ9Ik0wIDBoMzZ2MzZIMHoiLz4KICAgIDxwYXRoIGZpbGw9IiM0M0I1ODEiIGQ9Ik0xOS4zMDUgMjIuNjA1bC0zLjgxLTMuNzY1LjA0NS0uMDQ1YzIuNjEtMi45MSA0LjQ3LTYuMjU1IDUuNTY1LTkuNzk1SDI1LjVWNkgxNVYzaC0zdjNIMS41djNoMTYuNzU1Yy0xLjAwNSAyLjg4LTIuNTk1IDUuNjI1LTQuNzU1IDguMDI1LTEuMzk1LTEuNTQ1LTIuNTUtMy4yNC0zLjQ2NS01LjAyNWgtM2MxLjA5NSAyLjQ0NSAyLjU5NSA0Ljc1NSA0LjQ3IDYuODRMMy44NyAyNi4zNyA2IDI4LjVsNy41LTcuNSA0LjY2NSA0LjY2NSAxLjE0LTMuMDZ6TTI3Ljc1IDE1aC0zTDE4IDMzaDNsMS42OC00LjVoNy4xMjVMMzEuNSAzM2gzbC02Ljc1LTE4em0tMy45MyAxMC41bDIuNDMtNi40OTUgMi40MyA2LjQ5NWgtNC44NnoiLz4KICA8L2c+Cjwvc3ZnPgo="] {
+    content: url(https://pomf.pyonpyon.moe/eqdgrq.png)!important;
+}
+/*-------------------made by Beard Design-------------------------*/
+
+.titlebar{
+    background: linear-gradient( 100deg, #43CBFF 0%, #9708CC 100%); !important;
+    height:35px!important;
+}
+
+.popout-bottom[style*="overflow: hidden; visibility: visible;"]{
+    top:92px!important;
+}
+
+.titlebar:after{
+    content:"Discord";
+    position:absolute;
+    top:9px;
+    left:40px;
+    font-weight:600;
+    color:#fff;
+    opacity:0.6
+}
+
+.titlebar:before{
+    content:url(https://discordapp.com/assets/1c8a54f25d101bdc607cec7228247a9a.svg);
+    position:absolute;
+    top:7px;
+    left:15px;
+    font-weight:600;
+    color:#fff;
+    opacity:0.6;
+    height:20px;
+    width:20px
+}
+
+.win-buttons button{
+    height:33px!important;
+    width:40px!important;
+    background-size: 23px;
+    background-repeat:no-repeat;
+}
+
+.win-buttons{
+    height:36px;
+    right:0px;
+}
+.win-buttons.win-buttons-notice{
+    top:0!important
+}
+.app{
+    margin-top:35px
+}
+.separator-win{
+    display:none
+}
+
+/*-------------------made by Beard Design-------------------------*/
+}
+.bd-loaderv2 {
+    background-image: : url(https://pomf.pyonpyon.moe/ydjmjw.svg)
+}
