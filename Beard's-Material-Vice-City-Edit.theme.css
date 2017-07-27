@@ -145,7 +145,9 @@ img[src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwM
 .separator-win{
     display:none
 }
-
+.theme-dark .user-settings-games .now-playing, .theme-light .user-settings-games .now-playing {
+    background-color: #43CBFF;
+}
 /*-------------------made by Beard Design-------------------------*/
 }
 .bd-loaderv2 {
